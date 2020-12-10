@@ -1,10 +1,10 @@
 package bootstrap
 import (
 	"fmt"
+	"harukaedu-main/database"
 	"harukaedu-main/router"
 	"github.com/jinzhu/gorm"
-	"harukaedu-main/database"
-	"harukaedu-users/models"
+	"github.com/madindo/harukaedu-users/models"
 )
 
 var db *gorm.DB
@@ -15,5 +15,7 @@ func BootApplication() {
 	router.Web()
 	db := database.Connect()
 	defer db.Close()
-	db.Debug().AutoMigrate(&models.User{})
+	db.Debug().DropTableIfExists(&models.User{})
+	db.Debug().DropTableIfExists(&models.Address{})
+	db.Debug().AutoMigrate(&models.User{}, &models.Address{})
 }
