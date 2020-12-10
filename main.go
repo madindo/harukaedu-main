@@ -1,5 +1,5 @@
 package main
-import "harukaedu-main/bootstrap"
+import "github.com/madindo/harukaedu-main/bootstrap"
 
 func main() {
 	bootstrap.BootApplication()
