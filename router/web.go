@@ -4,8 +4,8 @@ import (
 	"github.com/gorilla/mux"
 	"log"
 	"net/http"
-	maincontroller "harukaedu-main/controllers"
-	usercontroller "harukaedu-users/controllers"
+	maincontroller "github.com/madindo/harukaedu-main/controllers"
+	usercontroller "github.com/madindo/harukaedu-users/controllers"
 )
 
 func Web() {
