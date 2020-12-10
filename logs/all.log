@@ -1,0 +1,37 @@
+2020/12/04 16:56:45 Logging to a file in Go!
+2020/12/04 17:10:42  [ INFO ] Hit UserIndex
+2020/12/04 17:11:20  [ INFO ] Hit UserIndex
+2020/12/04 17:11:28  [ INFO ] Hit UserIndex
+2020/12/04 17:12:47  [ INFO ] Hit UserIndex
+2020/12/04 17:18:12  [ INFO ] Hit UserIndex
+2020/12/04 17:20:24  [ INFO ] Hit UserStore
+2020/12/04 17:20:33  [ INFO ] Hit UserStore
+2020/12/04 17:20:41  [ ERROR ] Hit UserStore - name is empty
+2020/12/04 17:21:32  [ ERROR ] Hit UserStore - name is empty
+2020/12/04 17:21:46  [ ERROR ] Hit UserStore - name is empty
+2020/12/04 17:22:03  [ ERROR ] Hit UserStore - email is empty
+2020/12/04 17:22:10  [ INFO ] Hit UserStore
+2020/12/04 17:29:40  [ ERROR ] Hit UserStore - name is empty
+2020/12/04 17:29:58  [ ERROR ] Hit UserStore - name is empty
+2020/12/10 06:59:22  [ ERROR ] Hit UserStore - name is empty
+2020/12/10 06:59:28  [ INFO ] Hit UserIndex - show list users
+2020/12/10 07:02:07  [ INFO ] Hit UserIndex - show list users
+2020/12/10 07:02:32  [ INFO ] Hit UserIndex - show list users
+2020/12/10 07:04:18  [ INFO ] Hit UserIndex - show list users
+2020/12/10 07:04:26  [ INFO ] Hit UserIndex - show list users
+2020/12/10 07:05:32  [ INFO ] Hit UserIndex - show list users
+2020/12/10 07:05:40  [ INFO ] Hit UserIndex - show list users
+2020/12/10 07:06:52  [ INFO ] Hit UserIndex - show list users
+2020/12/10 07:06:59  [ INFO ] Hit UserIndex - show list users
+2020/12/10 07:07:07  [ INFO ] Hit UserIndex - show list users
+2020/12/10 07:07:29  [ INFO ] Hit UserIndex - show list users
+2020/12/10 07:07:38  [ INFO ] Hit UserIndex - show list users
+2020/12/10 07:08:34  [ INFO ] Hit UserIndex - show list users
+2020/12/10 07:09:44  [ INFO ] Hit UserIndex - show list users
+2020/12/10 07:09:55  [ INFO ] Hit UserIndex - show list users
+2020/12/10 07:10:01  [ INFO ] Hit UserIndex - show list users
+2020/12/10 07:14:21  [ INFO ] Hit UserIndex - show list users
+2020/12/10 07:19:52  [ INFO ] Hit UserIndex - show list users
+2020/12/10 07:40:29  [ INFO ] Hit UserIndex - show list users
+2020/12/10 07:43:20  [ INFO ] Hit UserIndex - show list users
+2020/12/10 07:46:05  [ INFO ] Hit UserIndex - show list users
