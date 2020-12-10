@@ -1,8 +1,8 @@
 package bootstrap
 import (
 	"fmt"
-	"harukaedu-main/database"
-	"harukaedu-main/router"
+	"github.com/madindo/harukaedu-main/database"
+	"github.com/madindo/harukaedu-main/router"
 	"github.com/jinzhu/gorm"
 	"github.com/madindo/harukaedu-users/models"
 )
