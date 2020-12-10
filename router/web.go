@@ -4,7 +4,7 @@ import (
 	"github.com/gorilla/mux"
 	"log"
 	"net/http"
-	maincontroller "github.com/madindo/harukaedu-main/controllers"
+	maincontroller "harukaedu-main/controllers"
 	usercontroller "github.com/madindo/harukaedu-users/controllers"
 )
 
