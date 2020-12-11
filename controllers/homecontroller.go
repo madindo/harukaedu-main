@@ -9,5 +9,5 @@ func HomeIndex(response http.ResponseWriter, request *http.Request) {
 }
 
 func HomeLoaderIo(response http.ResponseWriter, request *http.Request) {
-	fmt.Fprintf(response, "HomeResponseloaderio-e8b5a8357a3427f049705ec89394e548")
+	fmt.Fprintf(response, "loaderio-e8b5a8357a3427f049705ec89394e548")
 }
