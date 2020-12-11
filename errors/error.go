@@ -1,7 +1,7 @@
 package errors
 import (
 	"fmt"
-	"harukaedu-main/logs"
+	"github.com/madindo/harukaedu-main/logs"
 	"net/http"
 )
 
